@@ -1,0 +1,26 @@
+[
+  {
+    "ID": "1",
+    "Name": "book1",
+    "Availability": "Available",
+    "Owner": "not"
+  },
+  {
+    "ID": "2",
+    "Name": "book2",
+    "Availability": "Available",
+    "Owner": "not"
+  },
+  {
+    "ID": "4",
+    "Name": "book4",
+    "Availability": "Available",
+    "Owner": "not"
+  },
+  {
+    "ID": "3",
+    "Name": "book3",
+    "Availability": "Not available",
+    "Owner": "Angelina"
+  }
+]
